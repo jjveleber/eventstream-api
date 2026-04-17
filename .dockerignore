@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+*.md
+docs/
+
+# Environment
+.env
+.env.local
+
+# Project-specific
+tests/
+*.log
+.DS_Store
+
+# Search index
+.claude/
+*.py[search index files]
+chunker.py
+index_project.py
+search_code.py
+search_server.py
+watch_index.py
