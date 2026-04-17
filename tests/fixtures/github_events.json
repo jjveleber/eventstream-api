@@ -1,0 +1,48 @@
+[
+  {
+    "id": "10716336707",
+    "type": "DeleteEvent",
+    "actor": {
+      "id": 41898282,
+      "login": "github-actions[bot]",
+      "display_login": "github-actions",
+      "url": "https://api.github.com/users/github-actions[bot]"
+    },
+    "repo": {
+      "id": 876813897,
+      "name": "eso/homebrew-pipelines",
+      "url": "https://api.github.com/repos/eso/homebrew-pipelines"
+    },
+    "payload": {
+      "ref": "bump-esopipe-giraf-recipes-2.18.4-4",
+      "ref_type": "branch",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2026-04-17T16:48:44Z"
+  },
+  {
+    "id": "10716336461",
+    "type": "PushEvent",
+    "actor": {
+      "id": 73139402,
+      "login": "cloudflare-workers[bot]",
+      "url": "https://api.github.com/users/cloudflare-workers[bot]"
+    },
+    "repo": {
+      "id": 773182752,
+      "name": "test/test-repo",
+      "url": "https://api.github.com/repos/test/test-repo"
+    },
+    "payload": {
+      "push_id": 33008148221,
+      "ref": "refs/heads/main",
+      "commits": [
+        {"sha": "abc123"},
+        {"sha": "def456"}
+      ]
+    },
+    "public": true,
+    "created_at": "2026-04-17T16:48:44Z"
+  }
+]

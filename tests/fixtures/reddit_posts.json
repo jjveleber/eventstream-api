@@ -1,0 +1,26 @@
+{
+  "kind": "Listing",
+  "data": {
+    "children": [
+      {
+        "kind": "t3",
+        "data": {
+          "id": "1so1b77",
+          "title": "Test Reddit Post",
+          "subreddit": "test",
+          "author": "testuser",
+          "created_utc": 1776433202.0,
+          "ups": 24106,
+          "num_comments": 100,
+          "permalink": "/r/test/comments/1so1b77/test_post/",
+          "url": "https://example.com/test",
+          "is_self": false,
+          "is_video": false,
+          "over_18": false,
+          "domain": "example.com",
+          "post_hint": "link"
+        }
+      }
+    ]
+  }
+}
